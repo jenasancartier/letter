@@ -1,3 +1,6 @@
 #letter {
   display: none;
 }
+.content {
+  text-transform: uppercase;
+}
